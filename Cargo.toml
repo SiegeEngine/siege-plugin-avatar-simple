@@ -1,0 +1,12 @@
+[package]
+name = "siege-plugin-avatar-simple"
+version = "0.1.0"
+authors = ["Mike Dilger <mike@optcomp.nz>"]
+description = "Simple Avatar Plugin for the Siege Engine"
+repository = "https://github.com/SiegeEngine/siege-plugin-avatar-simple"
+readme = "README.md"
+keywords = [ "siege", "avatar" ]
+license = "MIT"
+
+[dependencies]
+siege-math = { git = "https://github.com/SiegeEngine/siege-math" }
